@@ -81,6 +81,8 @@ Katib是基于Kubernetes的开源自动化机器学习平台，助力高效优�
 
 ## Katib使用
 
+首先启动虚拟环境进入运行目录
+
 ```
 conda activate katib
 
